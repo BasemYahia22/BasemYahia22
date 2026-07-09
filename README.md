@@ -1,42 +1,109 @@
-
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<h1 align="center">Hi 👋, I'm Basem Yahia</h1>
 
 <h3 align="center">
-  Welcome to Basem Yahia's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+Frontend Engineer | React • Next.js • TypeScript
 </h3>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=#0077B5&vCenter=true&size=22"></a>
-</p> 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Frontend+Engineer;React+%7C+Next.js+%7C+TypeScript;Building+Modern+Web+Applications;Exploring+Svelte+%26+SvelteKit;Computer+Science+Enthusiast" />
+</p>
+
+---
+
+# 👨‍💻 About Me
+
+I'm **Basem Yahia**, a Frontend Engineer from **Egypt 🇪🇬** passionate about building modern, responsive, and user-focused web applications.
+
+My primary stack is **React, Next.js, TypeScript, Tailwind CSS, and JavaScript**. I enjoy transforming ideas into clean, scalable, and maintainable applications while continuously improving my software engineering skills.
+
+Currently, I'm expanding my knowledge in **Svelte & SvelteKit** while strengthening my Computer Science fundamentals and building production-ready applications.
+
+---
+
+# 🚀 Current Focus
+
+- ⚛️ Building modern React applications
+- 🚀 Learning Next.js
+- ⚡ Exploring Svelte & SvelteKit
+- 📚 Strengthening Computer Science fundamentals
+- 💡 Building production-ready projects
+- ✨ Writing clean and maintainable code
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,react,nextjs,svelte,vite" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,vercel,npm" />
+</p>
 
 
-## 🚀 About Me
-"Hello, my name is Basem Yahia Abdel Latif, I am a dedicated front-end developer with a strong passion for creating visually appealing and highly functional web interfaces. My expertise includes HTML5, CSS3, Sass, Tailwind, and React, allowing me to build responsive and dynamic websites that provide an exceptional user experience. With a keen eye for design and a commitment to clean, efficient code, I thrive in collaborative environments where I can continuously learn and contribute to innovative web projects."
+# 📚 Currently Learning
 
+- Next.js
+- Svelte
+- SvelteKit
+- Computer Science
+- Software Engineering
+- Clean Code
+- Design Patterns
 
+---
 
+# 🌍 Connect With Me
 
+<p align="left">
 
+<a href="https://www.linkedin.com/in/basem-yahia-8449913a2/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-### Connect with Me :
-<a href="https://t.me/BasemYahia" target="_blank"><img src="https://img.shields.io/badge/-Basem%20Yahia-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
-### 🛠 &nbsp;Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
+<a href="https://github.com/BasemYahia22" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
+<a href="https://t.me/BasemYahia" target="_blank">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
 
+<a href="mailto:basemyahiawork@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
+</p>
 
+---
 
+# 💭 Favorite Quote
 
-<h1 align="center">
-I will be glad if you see all repositories ♥
-</h1>
+> "First, solve the problem. Then, write the code."
+
+— John Johnson
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=BasemYahia22&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile. Feel free to explore my repositories and let's build something amazing together!
+</h3>
