@@ -51,7 +51,7 @@ Currently, I'm expanding my knowledge in **Svelte & SvelteKit** while strengthen
 <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,vercel,npm" />
 </p>
 
-
+---
 # 📚 Currently Learning
 
 - Next.js
@@ -93,14 +93,6 @@ Currently, I'm expanding my knowledge in **Svelte & SvelteKit** while strengthen
 > "First, solve the problem. Then, write the code."
 
 — John Johnson
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=BasemYahia22&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</p>
 
 ---
 
